@@ -67,6 +67,8 @@
 // }
 // age(2,5);
 
+let username = "Adarsh"
+console.log(username);
 
 
 
